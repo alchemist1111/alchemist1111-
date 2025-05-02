@@ -1,45 +1,70 @@
-# Hi there, I'm Eugene Emoyo Ojakaa! 👋
+<h1 align="center">Hi there, I'm Eugene Emoyo 👋</h1>
+<p align="center">
+  <em>Backend Developer | Passionate Problem Solver | Lifelong Learner</em>
+</p>
 
-![Banner Image](your_banner_image_url_here)
+---
 
-## About Me 🚀
+### 🚀 About Me
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am currently a **Backend Software Engineering Learner at ALX**, where I am dedicated to building scalable, maintainable, and secure systems.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+I started this journey driven by my curiosity about how apps work and a desire to solve real-world problems through technology. I'm passionate about **automation**, **AI/ML**, and **improving lives through technology**.
 
-## My Skills 🧠
+What inspires me most is **making a difference**, **creating impact in my community**, and **building tools that matter**.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+My long-term vision is to become a **Lead Backend Engineer**—building powerful backend infrastructures that support products for millions.
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+To achieve that, I love working on **APIs**, **fintech platforms**, and **social good applications** that combine technical depth with meaningful outcomes.
 
-## Featured Projects 💻
+---
 
-### [Project 1 Title](project_1_link)
+### 🧠 My Tech Toolbox
 
-![Project 1 Screenshot](project_1_screenshot_url)
+Here are some of the technologies and tools I’ve been working with:
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+- 🧰 Languages: Python, JavaScript, Bash, C
+- 🌐 Backend: Django, Flask, Node.js
+- 🗃️ Databases: MySQL, PostgreSQL, MongoDB
+- 🧪 Testing: PyTest, Postman, UnitTest
+- 🐙 Version Control: Git, GitHub
+- 📦 DevOps: Docker, CI/CD (GitHub Actions)
+- 🧠 Learning: Redis, GraphQL, System Design
 
-### [Project 2 Title](project_2_link)
+---
 
-![Project 2 Screenshot](project_2_screenshot_url)
+### 📌 Projects & Highlights
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+Here are a few of my favorite projects:
 
-## Get in Touch 📬
+#### 🧭 [Mental Health Support Platform](https://github.com/alchemist1111/mental-health-support)
+A Django-based full-stack app to connect users with mental health support. It features authentication, real-time chat, and community resources.
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+#### 📓 [ALX Backend Portfolio](https://github.com/alchemist1111/alx-backend)
+A collection of projects from my ALX journey showcasing my understanding of APIs, databases, caching, and performance optimization.
 
+#### 🛠️ [API Performance Monitor](https://github.com/alchemist1111/api-performance-monitor)
+An API monitoring tool that logs and visualizes request latency and uptime statistics.
 
+---
+
+### 🌱 Currently Learning
+
+- System architecture design
+- Kubernetes & container orchestration
+- Advanced Python (asyncio, memory profiling)
+- Open-source contribution best practices
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/eugene-emoyo-ojakaa-4433a32ba/)
+- 📧 Email: [your.email@example.com] <!-- Replace with your real email if you'd like -->
+- 🌍 Portfolio: [yourportfolio.dev] <!-- Replace if you have a personal website -->
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alchemist1111&show_icons=true&theme=radical" alt="alchemist1111's GitHub stats" />
+</p>
